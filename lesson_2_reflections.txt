@@ -24,6 +24,8 @@ organized? How would branches help?
 	is complete, then merge when appropriate.	
 
 How do the diagrams help you visualize the branch structure?
+    It shows the clear pathway of reachability as well as highlighting how
+	some branches are not reachable.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
