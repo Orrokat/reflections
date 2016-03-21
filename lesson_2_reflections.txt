@@ -14,6 +14,14 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    experimentation - you can make changes and commit them, keeping history so 
+	you don't lose work. But the master can remain untouched or continue with routine
+    maintenance.  the branch can then be merged in when and if it is deemed
+    appropriate.
+
+    on a larger project multiple people may be working on the sam set of files.
+    branching allows each person to work in isolation until their unit testing
+	is complete, then merge when appropriate.	
 
 How do the diagrams help you visualize the branch structure?
 
