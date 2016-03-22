@@ -29,6 +29,10 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+     Merging results in a new commit which contains the changes from both branches.
+	 This commit becomes the new tip.
+	 It is represented with arrows pointing to both parents since it can be traced 
+	 through both.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
