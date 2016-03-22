@@ -34,6 +34,9 @@ the diagram the way we do?
 	 It is represented with arrows pointing to both parents since it can be traced 
 	 through both.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+    If the merge is simple Git can take care of it.  There may be a very small 
+	chance that Git will merge incorrectly but it is more likly to force a manual 
+	resolution if the conflict is ambiguous.  I really don't see much 'con'.
