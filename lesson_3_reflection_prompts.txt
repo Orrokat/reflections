@@ -35,7 +35,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You would have to have a common location for files.  Only one person at a 
+	time could work on a file or you would have to get together and manually merge.
+	Much easier to use GitHub so you can branch.  It also lets you try out your 
+	merge before you make it part of the master.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
