@@ -43,5 +43,12 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Even though branching is more complicated, I would only chsnge the master if
+	a. I am the only one working on the project
+	b. The changes are very simple
+	c. I will not be having anyone else verifying my changes
+	d. The application is not in production.
+	
+	Working in a branch is an extra layer of insurance for your code.  It's too
+	late to buy insurance after you have an issue.
 
